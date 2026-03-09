@@ -3,7 +3,7 @@ export default function Hero() {
         <section id="top" className="relative flex h-[68vh] min-h-[460px] w-full items-center md:h-[74vh]">         <div
             className="absolute inset-0 bg-cover bg-center"
             style={{
-                backgroundImage: "url('/images.jpg')",
+                backgroundImage: "url('/PersonalWebsite/images.jpg')",
             }}
         />
             <div className="absolute inset-0 bg-gradient-to-b from-slate-900/65 via-slate-950/75 to-slate-950/90" />
