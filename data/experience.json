@@ -1,0 +1,16 @@
+[
+  {
+    "role": "Software Engineer",
+    "company": "Scotiabank",
+    "location": "Toronto, ON",
+    "period": "Dec 2025 - Present",
+    "team": "Cash Management Technology",
+    "highlights": [
+      "Traced message flows and analyzed payload mappings to identify transaction processing errors.",
+      "Updated ESQL transformations in integration flows to correct data handling issues.",
+      "Diagnosed environment inconsistencies between local and UAT systems using SQL validation.",
+      "Updated workflow definitions and state-machine diagrams for payment processing systems.",
+      "Modified backend integration flows to support new transaction-processing requirements."
+    ]
+  }
+]

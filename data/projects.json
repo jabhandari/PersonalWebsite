@@ -1,0 +1,54 @@
+[
+  {
+    "title": "DevFlow",
+    "description": "Full-stack journaling application for creating and managing daily entries with secure authentication.",
+    "tech": ["React", "Vite", "Node.js", "Express", "MongoDB", "JWT"],
+    "highlights": [
+      "Implemented JWT authentication and bcrypt password hashing for secure login.",
+      "Designed RESTful APIs and MongoDB data models for users and entries.",
+      "Used upsert-based persistence to manage journal updates efficiently.",
+      "Separated client and server architecture for scalability."
+    ],
+    "github": "https://github.com/jabhandari/devflow",
+    "featured": true
+  },
+  {
+    "title": "Web E-Commerce Application",
+    "description": "REST API and web application simulating an online store backend with product filtering and image uploads.",
+    "tech": ["Node.js", "Express", "JavaScript", "HTML", "CSS", "Cloudinary"],
+    "highlights": [
+      "Built Express REST API serving product and category data from JSON datasets.",
+      "Integrated Cloudinary image hosting using Multer middleware.",
+      "Designed service-layer architecture for cleaner modular code.",
+      "Implemented filtering endpoints for category and publish-state queries."
+    ],
+    "github": "",
+    "featured": true
+  },
+  {
+    "title": "Superstore Data Visualization",
+    "description": "Retail analytics project analyzing sales data and generating dashboards and visualizations.",
+    "tech": ["Python", "Pandas", "Matplotlib", "Power BI", "Tableau", "Excel"],
+    "highlights": [
+      "Cleaned and transformed transactional datasets using Pandas.",
+      "Generated charts for sales trends, profit by region, and top products.",
+      "Built Power BI dashboards and Excel pivot tables for KPI analysis.",
+      "Automated data loading and reporting workflows."
+    ],
+    "github": "",
+    "featured": false
+  },
+  {
+    "title": "MERN To-Do List Application",
+    "description": "Task management application using the MERN stack with persistent storage.",
+    "tech": ["MongoDB", "Express", "React", "Node.js"],
+    "highlights": [
+      "Implemented CRUD API endpoints connected to MongoDB.",
+      "Connected React frontend with backend APIs using fetch/axios.",
+      "Enabled dynamic task creation, updates, and deletion.",
+      "Improved project setup and environment configuration."
+    ],
+    "github": "",
+    "featured": false
+  }
+]
